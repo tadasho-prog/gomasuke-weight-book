@@ -23,8 +23,8 @@
           "date": "2026-09-09",
           "localizedDescription": "SideStore から入れられるようにしました。ホーム画面の写真と設定画面の画像調整を改良しています。",
           "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v0.1-1/GomasukeWeightBook.ipa",
-          "size": 8076293,
-          "sha256": "8302d35fd6701d8335867d3bd245c78a7e2c45048cb3757253bb404a8dfb1a16",
+          "size": 8076294,
+          "sha256": "3b4936a4811bfbe0c070af32709b479e0edf7a585fa9ef06463b7bb68013d421",
           "minOSVersion": "17.0"
         }
       ]
