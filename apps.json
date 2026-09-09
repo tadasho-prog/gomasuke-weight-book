@@ -18,13 +18,13 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "0.1",
-          "buildVersion": "1",
+          "version": "0.2",
+          "buildVersion": "2",
           "date": "2026-09-09",
-          "localizedDescription": "SideStore から入れられるようにしました。ホーム画面の写真と設定画面の画像調整を改良しています。",
-          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v0.1-1/GomasukeWeightBook.ipa",
-          "size": 8076294,
-          "sha256": "3b4936a4811bfbe0c070af32709b479e0edf7a585fa9ef06463b7bb68013d421",
+          "localizedDescription": "削除した日に入れ直した記録が、再起動すると消えてしまう不具合を直しました。",
+          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v0.2-2/GomasukeWeightBook.ipa",
+          "size": 8077113,
+          "sha256": "0dff2b79ea9a20bd5c2f51386066fad533207a678dccab1c072ff6d24afee038",
           "minOSVersion": "17.0"
         }
       ]
