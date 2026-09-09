@@ -1,0 +1,34 @@
+{
+  "name": "ごますけ体重手帳",
+  "identifier": "jp.gomasuke.source",
+  "subtitle": "ごますけの体重を記録するアプリ",
+  "description": "家族ふたりで、ごますけの体重を毎日記録して共有するためのアプリを配信しています。",
+  "iconURL": "https://raw.githubusercontent.com/tadasho-prog/gomasuke-weight-book/main/icon.png",
+  "tintColor": "#16606E",
+  "apps": [
+    {
+      "name": "ごますけ体重手帳",
+      "bundleIdentifier": "jp.gomasuke.weightbook",
+      "developerName": "shogo",
+      "subtitle": "ごますけの体重を毎日記録する",
+      "localizedDescription": "ゴールデンハムスター「ごますけ」の体重を毎日記録し、推移をグラフで見られるアプリです。\n\n・体重を入れるだけのシンプルな記録\n・7日移動平均つきの推移グラフ\n・急な増減を3段階で知らせるアラート\n・ふたりのスマホで同じ記録を共有",
+      "iconURL": "https://raw.githubusercontent.com/tadasho-prog/gomasuke-weight-book/main/icon.png",
+      "tintColor": "#16606E",
+      "category": "lifestyle",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "0.1",
+          "buildVersion": "1",
+          "date": "2026-09-09",
+          "localizedDescription": "SideStore から入れられるようにしました。ホーム画面の写真と設定画面の画像調整を改良しています。",
+          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v0.1-1/GomasukeWeightBook.ipa",
+          "size": 8076293,
+          "sha256": "8302d35fd6701d8335867d3bd245c78a7e2c45048cb3757253bb404a8dfb1a16",
+          "minOSVersion": "17.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
