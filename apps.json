@@ -18,13 +18,13 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "0.2",
-          "buildVersion": "2",
-          "date": "2026-09-09",
-          "localizedDescription": "削除した日に入れ直した記録が、再起動すると消えてしまう不具合を直しました。",
-          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v0.2-2/GomasukeWeightBook.ipa",
-          "size": 8077113,
-          "sha256": "0dff2b79ea9a20bd5c2f51386066fad533207a678dccab1c072ff6d24afee038",
+          "version": "0.3",
+          "buildVersion": "3",
+          "date": "2026-09-13",
+          "localizedDescription": "設定画面にバージョンを表示するようにしました。",
+          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v0.3-3/GomasukeWeightBook.ipa",
+          "size": 8082944,
+          "sha256": "fb92bd7eb851a5a90f393adae8d98339f2e7b298f80854c2ec08180f8c4736c0",
           "minOSVersion": "17.0"
         }
       ]
