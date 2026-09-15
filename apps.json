@@ -18,13 +18,13 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "0.4",
-          "buildVersion": "4",
+          "version": "0.5",
+          "buildVersion": "5",
           "date": "2026-09-15",
-          "localizedDescription": "ごますけの写真を1日1枚アップロードできるようにしました。写真タブのカレンダーで見返せます。",
-          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v0.4-4/GomasukeWeightBook.ipa",
-          "size": 7116173,
-          "sha256": "63b5fe6bf664acf7fd129425ae54994a6ab704de99365d3d18d4dcdfc1d78cfb",
+          "localizedDescription": "カレンダーのマスが隣の日とかぶるのを直しました。ホームに今日のごますけの写真が出るようになりました。",
+          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v0.5-5/GomasukeWeightBook.ipa",
+          "size": 7122697,
+          "sha256": "f58da0389aed8f0f4cd6f4cd19c4125ca4eabcde9870465aaaccd703f3a66f3c",
           "minOSVersion": "17.0"
         }
       ]
