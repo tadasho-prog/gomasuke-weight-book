@@ -18,13 +18,13 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "0.3",
-          "buildVersion": "3",
-          "date": "2026-09-13",
-          "localizedDescription": "設定画面にバージョンを表示するようにしました。",
-          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v0.3-3/GomasukeWeightBook.ipa",
-          "size": 8082944,
-          "sha256": "fb92bd7eb851a5a90f393adae8d98339f2e7b298f80854c2ec08180f8c4736c0",
+          "version": "0.4",
+          "buildVersion": "4",
+          "date": "2026-09-15",
+          "localizedDescription": "ごますけの写真を1日1枚アップロードできるようにしました。写真タブのカレンダーで見返せます。",
+          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v0.4-4/GomasukeWeightBook.ipa",
+          "size": 7116173,
+          "sha256": "63b5fe6bf664acf7fd129425ae54994a6ab704de99365d3d18d4dcdfc1d78cfb",
           "minOSVersion": "17.0"
         }
       ]
