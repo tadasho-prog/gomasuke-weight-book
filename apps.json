@@ -18,13 +18,13 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "0.6",
-          "buildVersion": "6",
+          "version": "0.7",
+          "buildVersion": "7",
           "date": "2026-09-18",
-          "localizedDescription": "写真を開いたまま、横スワイプで前後の日に移動できるようにしました。",
-          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v0.6-6/GomasukeWeightBook.ipa",
-          "size": 7143266,
-          "sha256": "38883bd9830f132d7685ca6fef05062c1984454e2e4d7cfc3f1f560e87493bf6",
+          "localizedDescription": "写真をピンチで拡大できるようにしました。ダブルタップでも拡大・縮小できます。",
+          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v0.7-7/GomasukeWeightBook.ipa",
+          "size": 7155138,
+          "sha256": "12fdf5d8755440c9e05c688df275210fdd31e65a9fdda7823b0ffb3b7ab29e44",
           "minOSVersion": "17.0"
         }
       ]
