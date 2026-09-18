@@ -18,13 +18,13 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "0.7",
-          "buildVersion": "7",
+          "version": "0.8",
+          "buildVersion": "8",
           "date": "2026-09-18",
-          "localizedDescription": "写真をピンチで拡大できるようにしました。ダブルタップでも拡大・縮小できます。",
-          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v0.7-7/GomasukeWeightBook.ipa",
-          "size": 7155138,
-          "sha256": "12fdf5d8755440c9e05c688df275210fdd31e65a9fdda7823b0ffb3b7ab29e44",
+          "localizedDescription": "写真の拡大を iPhone の写真アプリと同じ仕組みにしました。ピンチしたときに前後の日へ動いてしまう問題が直っています。",
+          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v0.8-8/GomasukeWeightBook.ipa",
+          "size": 7153850,
+          "sha256": "6cca9f1dda4ea81f573360c324bcb98e3e7aa88f5f038ad1900781c2860f6d72",
           "minOSVersion": "17.0"
         }
       ]
