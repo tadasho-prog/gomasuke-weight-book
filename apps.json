@@ -18,13 +18,13 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "1.1",
-          "buildVersion": "11",
-          "date": "2026-09-24",
-          "localizedDescription": "写真がクラウドに上がっていなかった不具合を直しました。同期に失敗したときは設定画面に理由が出ます。",
-          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v1.1-11/GomasukeWeightBook.ipa",
-          "size": 11813104,
-          "sha256": "1ec676173547b6b6d35e971a23254660c0717bc1a667b58aa0d663261531ffbb",
+          "version": "1.2",
+          "buildVersion": "12",
+          "date": "2026-09-25",
+          "localizedDescription": "同期まわりを3点直しました。写真がクラウドに上がらない不具合、圏外で消した写真が復活する不具合、同期が二重に走ると記録が2件できる不具合です。",
+          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v1.2-12/GomasukeWeightBook.ipa",
+          "size": 11819247,
+          "sha256": "1b55c8a7b00186f3da82930e6bb29cf6ddb0420e66422db0c4db37b80f85e57a",
           "minOSVersion": "17.0"
         }
       ]
