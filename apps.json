@@ -18,13 +18,13 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "1.0",
-          "buildVersion": "10",
+          "version": "1.1",
+          "buildVersion": "11",
           "date": "2026-09-24",
-          "localizedDescription": "今日の写真をまだ入れていない日は、ホームの丸にいつものイラストが出るようにしました。右上の「+」から写真を入れられます。",
-          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v1.0-10/GomasukeWeightBook.ipa",
-          "size": 11807050,
-          "sha256": "b432c49fd8fb93dcf14e4fdcf7e9d11eec28d1be4e4b4272e2e40890e181fa43",
+          "localizedDescription": "写真がクラウドに上がっていなかった不具合を直しました。同期に失敗したときは設定画面に理由が出ます。",
+          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v1.1-11/GomasukeWeightBook.ipa",
+          "size": 11813104,
+          "sha256": "1ec676173547b6b6d35e971a23254660c0717bc1a667b58aa0d663261531ffbb",
           "minOSVersion": "17.0"
         }
       ]
