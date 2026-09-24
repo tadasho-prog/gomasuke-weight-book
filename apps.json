@@ -18,13 +18,13 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "0.9",
-          "buildVersion": "9",
+          "version": "1.0",
+          "buildVersion": "10",
           "date": "2026-09-24",
-          "localizedDescription": "画面をぜんぶ作り直しました。ホームは直近14日の体重を足あとのリングで表します（外側ほど重い）。アラートは色・形・言葉の3つで見分けられるようにしました。記録の上書きと削除には確認が入ります。",
-          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v0.9-9/GomasukeWeightBook.ipa",
-          "size": 11809843,
-          "sha256": "041e37ee30fa3cfad9eebb78447ee845141e9f78561808d05054014bb1b186c4",
+          "localizedDescription": "今日の写真をまだ入れていない日は、ホームの丸にいつものイラストが出るようにしました。右上の「+」から写真を入れられます。",
+          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v1.0-10/GomasukeWeightBook.ipa",
+          "size": 11807050,
+          "sha256": "b432c49fd8fb93dcf14e4fdcf7e9d11eec28d1be4e4b4272e2e40890e181fa43",
           "minOSVersion": "17.0"
         }
       ]
