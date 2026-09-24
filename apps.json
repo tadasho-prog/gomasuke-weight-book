@@ -18,13 +18,13 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "0.8",
-          "buildVersion": "8",
-          "date": "2026-09-18",
-          "localizedDescription": "写真の拡大を iPhone の写真アプリと同じ仕組みにしました。ピンチしたときに前後の日へ動いてしまう問題が直っています。",
-          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v0.8-8/GomasukeWeightBook.ipa",
-          "size": 7153850,
-          "sha256": "6cca9f1dda4ea81f573360c324bcb98e3e7aa88f5f038ad1900781c2860f6d72",
+          "version": "0.9",
+          "buildVersion": "9",
+          "date": "2026-09-24",
+          "localizedDescription": "画面をぜんぶ作り直しました。ホームは直近14日の体重を足あとのリングで表します（外側ほど重い）。アラートは色・形・言葉の3つで見分けられるようにしました。記録の上書きと削除には確認が入ります。",
+          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v0.9-9/GomasukeWeightBook.ipa",
+          "size": 11809843,
+          "sha256": "041e37ee30fa3cfad9eebb78447ee845141e9f78561808d05054014bb1b186c4",
           "minOSVersion": "17.0"
         }
       ]
