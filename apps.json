@@ -18,13 +18,13 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "1.2",
-          "buildVersion": "12",
+          "version": "1.3",
+          "buildVersion": "13",
           "date": "2026-09-25",
-          "localizedDescription": "同期まわりを3点直しました。写真がクラウドに上がらない不具合、圏外で消した写真が復活する不具合、同期が二重に走ると記録が2件できる不具合です。",
-          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v1.2-12/GomasukeWeightBook.ipa",
-          "size": 11819247,
-          "sha256": "1b55c8a7b00186f3da82930e6bb29cf6ddb0420e66422db0c4db37b80f85e57a",
+          "localizedDescription": "記録したあとの5秒間、回し車の中をごますけが走るようになりました。",
+          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v1.3-13/GomasukeWeightBook.ipa",
+          "size": 12033334,
+          "sha256": "394b29d5c5d6303a3c2a22458f1de082e491940e683ca4ed1c98d5bf1416595f",
           "minOSVersion": "17.0"
         }
       ]
