@@ -18,13 +18,13 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "1.4",
-          "buildVersion": "14",
-          "date": "2026-09-25",
-          "localizedDescription": "ホームの足あとリングを時計にしました。いまの時刻のところだけ濃くなり、1時間ごとに1つ進みます。",
-          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v1.4-14/GomasukeWeightBook.ipa",
-          "size": 12026525,
-          "sha256": "883a40c949dc4b689ee0f45c3379a43983f5b57837070fa000f2915d45655f2b",
+          "version": "1.5",
+          "buildVersion": "15",
+          "date": "2026-09-26",
+          "localizedDescription": "ホームの時計が進まないことがある不具合と、写真同期が一部失敗したときに取得済みのぶんまで保存されない不具合を直しました。",
+          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v1.5-15/GomasukeWeightBook.ipa",
+          "size": 12029486,
+          "sha256": "5219aab75cf6009f7b0eb1cdc4d446a6b3c43bb58383324a19e7243e9025e020",
           "minOSVersion": "17.0"
         }
       ]
