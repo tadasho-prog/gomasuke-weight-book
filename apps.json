@@ -18,13 +18,13 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "1.5",
-          "buildVersion": "15",
-          "date": "2026-09-26",
-          "localizedDescription": "ホームの時計が進まないことがある不具合と、写真同期が一部失敗したときに取得済みのぶんまで保存されない不具合を直しました。",
-          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v1.5-15/GomasukeWeightBook.ipa",
-          "size": 12029486,
-          "sha256": "5219aab75cf6009f7b0eb1cdc4d446a6b3c43bb58383324a19e7243e9025e020",
+          "version": "1.6",
+          "buildVersion": "16",
+          "date": "2026-10-01",
+          "localizedDescription": "ホームに署名の期限を表示し、残り1日でお知らせするようにしました（タップでSideStoreを開けます）。写真を選んだあと、丸の中でピンチと移動で構図を合わせられます。写真タブは左右フリックで月を移動でき、選んでいる日をもう一度タップすると拡大します。",
+          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v1.6-16/GomasukeWeightBook.ipa",
+          "size": 12076045,
+          "sha256": "5ff5f21dce5d7925457d4d1455135f4ea76c685b85ec1b9f5b5317e742c0adaa",
           "minOSVersion": "17.0"
         }
       ]
