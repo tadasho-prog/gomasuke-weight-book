@@ -18,13 +18,13 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "1.6",
-          "buildVersion": "16",
-          "date": "2026-10-01",
-          "localizedDescription": "ホームに署名の期限を表示し、残り1日でお知らせするようにしました（タップでSideStoreを開けます）。写真を選んだあと、丸の中でピンチと移動で構図を合わせられます。写真タブは左右フリックで月を移動でき、選んでいる日をもう一度タップすると拡大します。",
-          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v1.6-16/GomasukeWeightBook.ipa",
-          "size": 12076045,
-          "sha256": "5ff5f21dce5d7925457d4d1455135f4ea76c685b85ec1b9f5b5317e742c0adaa",
+          "version": "1.7",
+          "buildVersion": "17",
+          "date": "2026-10-06",
+          "localizedDescription": "ホームの写真を、日付が変わってもリセットせずに前の写真を引き継ぐように",
+          "downloadURL": "https://github.com/tadasho-prog/gomasuke-weight-book/releases/download/v1.7-17/GomasukeWeightBook.ipa",
+          "size": 12077883,
+          "sha256": "cc55b4d95209965abdf80a38a16a7f1989e9638ba2e166619df7edc28b89c53c",
           "minOSVersion": "17.0"
         }
       ]
